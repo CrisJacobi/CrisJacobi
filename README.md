@@ -1,4 +1,7 @@
-### Hi there 👋
+<h1 align="center">Hi there👋, I'm Cristina! </h1>
+  I am a brazilian ecologist interested in understanding biodiversity patterns at multiple spatio-temporal scales.</h1>
+<p align="left">
+</p>
 
 <!--
 **CrisJacobi/CrisJacobi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
